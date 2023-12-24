@@ -83,7 +83,7 @@ int main() {
 }
 ```
 ## PROGRAM NASIL ÇALIŞTIRILIR:
-* Repository'de paylaşılan kod çalıştırılır.
+* Repository'de paylaşılan kod çalıştırılır veya "main.exe" dosyası açılır.
 * Önümüze gelen ekranda sırasıyla şu işlemler yapılır :
 1. Önce katılımcı sayısı girilir ve `enter` tuşlanır.
 2. Program sırasıyla katılımcılardan teklifleri isteyecektir. Teklifler girilir ve `enter` tuşlanır.
