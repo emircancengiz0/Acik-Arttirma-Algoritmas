@@ -83,9 +83,9 @@ int main() {
 }
 ```
 ## PROGRAM NASIL ÇALIŞTIRILIR:
-* Repository'de paylaşılan "acikarttirmaalgoritmasi.exe" dosyası çalıştırılır.
+* Repository'de paylaşılan kod çalıştırılır.
 * Önümüze gelen ekranda sırasıyla şu işlemler yapılır :
 1. Önce katılımcı sayısı girilir ve `enter` tuşlanır.
 2. Program sırasıyla katılımcılardan teklifleri isteyecektir. Teklifler girilir ve `enter` tuşlanır.
 3. Program kazananı ve ödeyeceği miktarı konsola yazdırır. </br></br>
-<i><b>PROGRAM SİZ EXE DOSYASINI ÇALIŞTIRDIĞINIZDA SİZİ YÖNLENDİRECEKTİR ASLINDA YUKARDAKİLERİN HİÇBİR ANLAMI YOKTUR :)</b><i/>
+<i><b>PROGRAM SİZ KODU ÇALIŞTIRDIĞINIZDA SİZİ YÖNLENDİRECEKTİR ASLINDA YUKARDAKİLERİN HİÇBİR ANLAMI YOKTUR :)</b><i/>
